@@ -20,7 +20,7 @@ b1=Button(window,text="Click Here",bg='black',fg='white',command=get_quotes)
 #b1.grid(row=3,column=4)
 
 b1.place(x=510,y=38)
-#b1.pack()
+
 #b1.pack(side=BOTTOM,padx=5,pady=5)
 
 
