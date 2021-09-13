@@ -29,10 +29,6 @@ e1_value=StringVar()
 e1=Entry(window,width=20,textvariable=e1_value)
 e1.place(x=340,y=40)
 
-#t1=Text(window,height=8,width=60)
-#t1.grid(row=4,column=6)
-#t1.place(x=80,y=80)
-#t1.pack()
 
 sb=Scrollbar(window)
 sbb=Scrollbar(window)
